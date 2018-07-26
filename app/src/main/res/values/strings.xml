@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">ImitateReadHub</string>
+    <string name="tab_hot">热门</string>
+    <string name="tab_info">资讯</string>
+    <string name="tab_mine">我的</string>
+    <string name="request_api_failed">请求数据失败</string>
+    <string name="check_net">检查网络连接</string>
+    <string name="exit_program">再按一次退出程序</string>
+    <string name="retry">请重试</string>
 </resources>
